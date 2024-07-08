@@ -1,6 +1,5 @@
 # bti888
-# Clone git from repository
-
+# Clone git from repository [Watch recorded Video](https://drive.google.com/file/d/1c820s0joVAlszntxf3MYC64InuirQxHh/view?usp=sharing)
 ## 1. Goto github
 
 ## 2. Create New repository
